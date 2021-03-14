@@ -54,6 +54,17 @@ git push origin [본인의 브런치명]
 
 
 
+### 3. pull이 필요할경우
+
+```
+git checkout master
+git pull
+git checkout [개인브런치]
+git 
+```
+
+
+
 
 
 ## 참고
