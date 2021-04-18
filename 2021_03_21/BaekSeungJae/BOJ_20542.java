@@ -4,7 +4,7 @@ package BOJ;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class BOJ_1191 {
+public class BOJ_20542 {
 
 	public static void main(String[] args) {
 		System.out.println(solution());
